@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@theme {
+  --color-red-100: #cd2029;
+  --color-dark-red: #7b0018;
+  --color-yellow-100: #ffd634;
+  --color-nude: #fff8de;
+  --color-orange: #fb9232;
+}
+@layer utilities {
+  .cusContainer {
+    @apply w-full lg:w-[680px] xl:w-[940px] 2xl:w-[1200px];
+  }
+}

@@ -145,7 +145,7 @@ export default function Home() {
     {
       title: "Integrated Mobile POS System",
       category: "Mobile & Tablet",
-      role: "Solo Creator",
+      role: "Frontend Developer",
       tech: ["React Native", "Expo", "Tailwind CSS"],
       image: "POS.png",
       desc: "A comprehensive point-of-sale platform providing an end-to-end business management suite across mobile and tablet devices, from product catalog to final analytics.",

@@ -134,7 +134,7 @@ export default function Home() {
       title: "MOB Banking Platform",
       category: "CMS",
       role: "Frontend Developer",
-      tech: ["React.js", "Bootstrap"],
+      tech: ["React.js", "tailwind css", "Tanstack Query", "i18n", "axios"],
       status: "In Progress",
       image: "MOB.png",
       link: "https://tst-mob-public.samuraigiant.com",

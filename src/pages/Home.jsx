@@ -136,8 +136,8 @@ export default function Home() {
       role: "Frontend Developer",
       tech: ["React.js", "Bootstrap"],
       status: "In Progress",
-      image:
-        "https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?auto=format&fit=crop&w=800&q=80",
+      image: "MOB.png",
+      link: "https://tst-mob-public.samuraigiant.com",
       desc: "A highly secure, structurally responsive CMS corporate hub tailored specifically for clear navigational flow in the banking sector.",
       longDesc:
         "Re-engineered standard financial content patterns into a tightly secured, multi-tier navigation layout. Ensures clear user accessibility pathways while adhering strictly to sector specific visibility guidelines.",

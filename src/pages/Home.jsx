@@ -113,7 +113,7 @@ export default function Home() {
         "Google Drive API",
       ],
       image: "MMInvest.png",
-      link: "https://mm-invest-website.vercel.app/",
+      link: "https://demo.mminvest.net/",
       desc: "A clever serverless architectural approach where structural client metrics are directly managed via a secure Google Sheets setup.",
       longDesc:
         "Eliminated heavyweight database overhead by turning a secure Google Sheets instance into a production-ready CMS. Client financial layouts load instantly using localized state handling and direct API pipelines.",
